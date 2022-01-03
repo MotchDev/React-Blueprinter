@@ -1,0 +1,68 @@
+@import "./variables.scss";
+
+.variable-set {
+  padding-left: 10px;
+  h3 {
+    color: $text-secondary;
+    margin-bottom: 0.4em;
+    font-size: 16px;
+  }
+
+  .button.remove {
+    color: $red;
+    padding: 4px 8px;
+  }
+  .variable {
+    display: flex;
+    align-items: center;
+    margin-top: 4px;
+    .variable-type {
+      font-size: 12px;
+      font-weight: bold;
+      width: 80px;
+      color: $secondary;
+      line-height: 18px;
+    }
+    .variable-value {
+      margin-left: 16px;
+      font-size: 14px;
+    }
+  }
+}
+
+.add-variable {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  .button {
+    width: 100%;
+    font-size: 12px;
+    letter-spacing: 0.03em;
+  }
+}
+
+.variable {
+  select {
+    background: $background;
+    border: 0;
+    font: inherit;
+    color: $secondary;
+    font-size: 12px;
+    font-weight: bold;
+    width: 80px;
+    margin-left: -3px;
+  }
+  input {
+    background: $background;
+    border: 0;
+    font: inherit;
+    font-size: 14px;
+    color: inherit;
+    margin-left: 16px;
+    width: calc(100% - 2em);
+  }
+  .button {
+    padding: 4px 8px;
+    font-size: 12px;
+  }
+}

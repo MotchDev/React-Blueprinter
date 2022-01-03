@@ -1,0 +1,49 @@
+@import "./variables.scss";
+.dropdown {
+  position: relative;
+
+  .dropdown-button {
+    cursor: pointer;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    img {
+      height: 20px;
+    }
+  }
+
+  .dropdown-menu {
+    position: absolute;
+    width: 200px;
+    top: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 5px 10px rgb(27 29 32 / 15%), 0 15px 30px rgb(7 7 8 / 20%);
+    border: 1px solid #262626;
+    border-radius: 3px;
+    z-index: 2;
+
+    button {
+      cursor: pointer;
+      text-align: left;
+      background: #323236;
+      color: #e5dddd;
+      border: 0;
+      padding: 12px;
+      border-top: 1px solid #262626;
+      transition: 0.25s ease-in-out;
+      &:hover {
+        background: #444;
+      }
+      &:first-child {
+        border-top: 0;
+        border-top-left-radius: inherit;
+        border-top-right-radius: inherit;
+      }
+      &:last-child {
+        border-bottom-left-radius: inherit;
+        border-bottom-right-radius: inherit;
+      }
+    }
+  }
+}

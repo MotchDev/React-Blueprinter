@@ -1,0 +1,26 @@
+@import "./variables.scss";
+
+.node {
+  position: relative;
+  .collapse-button {
+    position: absolute;
+    top: 2.25em;
+    left: 0;
+    border: 0;
+    background: $background;
+    color: $background-accent;
+    z-index: 2;
+    height: 17px;
+  }
+
+  &:after {
+    height: calc(100% - 2em);
+    left: 0.5em;
+    top: 2em;
+    width: 1px;
+    background-color: $background-accent;
+    position: absolute;
+    content: "";
+    display: block;
+  }
+}
