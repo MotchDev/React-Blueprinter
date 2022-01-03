@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-blueprinter/static/css/main.522476c3.chunk.css",
-    "main.js": "/react-blueprinter/static/js/main.2f30a8a1.chunk.js",
-    "main.js.map": "/react-blueprinter/static/js/main.2f30a8a1.chunk.js.map",
-    "runtime-main.js": "/react-blueprinter/static/js/runtime-main.3889a1bd.js",
-    "runtime-main.js.map": "/react-blueprinter/static/js/runtime-main.3889a1bd.js.map",
-    "static/js/2.c8e181a8.chunk.js": "/react-blueprinter/static/js/2.c8e181a8.chunk.js",
-    "static/js/2.c8e181a8.chunk.js.map": "/react-blueprinter/static/js/2.c8e181a8.chunk.js.map",
-    "static/js/3.b32dca3d.chunk.js": "/react-blueprinter/static/js/3.b32dca3d.chunk.js",
-    "static/js/3.b32dca3d.chunk.js.map": "/react-blueprinter/static/js/3.b32dca3d.chunk.js.map",
-    "index.html": "/react-blueprinter/index.html",
-    "static/css/main.522476c3.chunk.css.map": "/react-blueprinter/static/css/main.522476c3.chunk.css.map",
-    "static/js/2.c8e181a8.chunk.js.LICENSE.txt": "/react-blueprinter/static/js/2.c8e181a8.chunk.js.LICENSE.txt",
-    "static/media/kebab.4dcb41e5.svg": "/react-blueprinter/static/media/kebab.4dcb41e5.svg"
+    "main.css": "/React-Blueprinter/static/css/main.522476c3.chunk.css",
+    "main.js": "/React-Blueprinter/static/js/main.2f30a8a1.chunk.js",
+    "main.js.map": "/React-Blueprinter/static/js/main.2f30a8a1.chunk.js.map",
+    "runtime-main.js": "/React-Blueprinter/static/js/runtime-main.02a32589.js",
+    "runtime-main.js.map": "/React-Blueprinter/static/js/runtime-main.02a32589.js.map",
+    "static/js/2.c8e181a8.chunk.js": "/React-Blueprinter/static/js/2.c8e181a8.chunk.js",
+    "static/js/2.c8e181a8.chunk.js.map": "/React-Blueprinter/static/js/2.c8e181a8.chunk.js.map",
+    "static/js/3.b32dca3d.chunk.js": "/React-Blueprinter/static/js/3.b32dca3d.chunk.js",
+    "static/js/3.b32dca3d.chunk.js.map": "/React-Blueprinter/static/js/3.b32dca3d.chunk.js.map",
+    "index.html": "/React-Blueprinter/index.html",
+    "static/css/main.522476c3.chunk.css.map": "/React-Blueprinter/static/css/main.522476c3.chunk.css.map",
+    "static/js/2.c8e181a8.chunk.js.LICENSE.txt": "/React-Blueprinter/static/js/2.c8e181a8.chunk.js.LICENSE.txt",
+    "static/media/kebab.4dcb41e5.svg": "/React-Blueprinter/static/media/kebab.4dcb41e5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3889a1bd.js",
+    "static/js/runtime-main.02a32589.js",
     "static/js/2.c8e181a8.chunk.js",
     "static/css/main.522476c3.chunk.css",
     "static/js/main.2f30a8a1.chunk.js"
